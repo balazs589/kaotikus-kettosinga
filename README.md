@@ -1,1 +1,2 @@
-# kaotikus_kettosinga
+# Kaotikus kettősinga modellezése
+Matlab szimuláció
